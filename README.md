@@ -1,6 +1,10 @@
 # 🎧 APRAU Project 2025/26 — Group 13  
 **Master in Informatics Engineering – ISEP**
 
+### Primeira versão README gerada com AI para noção geral inicial
+
+---------- 
+
 ## 📘 General Description
 This project is part of the **Machine Learning (APRAU)** course and aims to apply different *machine learning* methods to a dataset containing musical track characteristics.  
 Each instance in the dataset represents a music track and includes metadata and audio analysis measurements (such as energy, tempo, intensity, purity, and others).  
