@@ -46,7 +46,7 @@ The main goals are:
 ---
 
 ## 🧠 Project Structure
-
+```ruby
 📦 APRAU_Group13
 ┣ 📂 data
 ┃ ┣ dataset.csv
@@ -62,7 +62,7 @@ The main goals are:
 ┃ ┗ feature_importance.png
 ┣ 📜 README.md
 ┗ 📜 requirements.txt
-
+```
 
 ---
 
@@ -71,9 +71,6 @@ The main goals are:
 - **Main Libraries:**
   - `pandas`, `numpy`, `matplotlib`, `seaborn` → Data analysis and visualization  
   - `scikit-learn` → Machine learning models and validation  
-  - `statsmodels` → Statistical analysis  
-  - `imblearn` → Handling imbalanced datasets  
-  - `joblib` → Model saving/loading  
 
 ---
 
